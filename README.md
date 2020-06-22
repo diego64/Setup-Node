@@ -14,7 +14,7 @@
 
 A estrutura é composta pelas seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
+- [Node.Js](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Jest](https://jestjs.io/)
 - [Eslint](https://eslint.org/)
@@ -25,7 +25,7 @@ A estrutura é composta pelas seguintes tecnologias:
 
 Este cógido tem como foco mostrar uma estrutura inicial para desenvolvimento de back-end usando Node.Js com TypeScript. 
 
-É composta por arquivos de padronização de código (Eslint), teste intregados (Eslint) e um transcompilador (Babel)
+É composta por arquivos de padronização de código (Eslint), teste intregados (Eslint) e transcompilador (Babel)
 
 ## 🔔 Considerações
 
