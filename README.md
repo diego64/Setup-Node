@@ -32,4 +32,4 @@ Este cógido tem como foco mostrar uma estrutura inicial para desenvolvimento de
 Foi utilzado o Yarn durante a construção desta base por isso dois avisos: 
 
 - Quando clonar o projeto antes de tudo rode yarn install para ser instalado todas as depencendias
-- Por usar o Yarn a instalação do Eslint foi um pouco mais complexa, se utilizar o npm a isntalação é mais simples 
+- Por usar o Yarn a instalação do Eslint foi um pouco mais complexa, se utilizar o npm a isntalação é mais simples
