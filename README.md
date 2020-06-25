@@ -27,7 +27,7 @@ Este cógido tem como foco mostrar uma estrutura inicial para desenvolvimento de
 
 É composta por arquivos de padronização de código (Eslint), teste intregados (Eslint) e transcompilador (Babel)
 
-## 🔔 Considerações
+## 🔔 Considerações sobre o projeto
 
 Foi utilzado o Yarn durante a construção desta base por isso dois avisos: 
 
