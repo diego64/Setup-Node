@@ -21,7 +21,7 @@ A estrutura é composta pelas seguintes tecnologias:
 - [Babel](https://babeljs.io/)
 
 
-## 📚 Objetivo
+## 📚 Objetivo 
 
 Este cógido tem como foco mostrar uma estrutura inicial para desenvolvimento de back-end usando Node.Js com TypeScript. 
 
